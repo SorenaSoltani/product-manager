@@ -16,7 +16,7 @@ namespace ConsoleApp2
             {
                 product soda = new product();
                 soda.stock = 99;
-                soda.productName = "soda";
+                soda.productName = "nooshabe";
                 soda.price = 111.500;
 
                 product chips = new product();
